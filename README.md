@@ -1,2 +1,3 @@
 # Natours
-Website template, made in HTML &amp; (S)CSS
+
+Website template in HTML, and CSS.
