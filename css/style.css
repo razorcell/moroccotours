@@ -502,6 +502,80 @@ body {
   background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url("../img/nat-7.jpg");
 }
 
+/* extra images by said */
+.card__picture--4 {
+  background-image: linear-gradient(to right bottom, #e918c6, #dd3c9f),
+    url(../img/museum1.jpg);
+}
+@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+  only screen and (-webkit-min-device-pixed-ratio: 2) and (min-width: 37.5em),
+  only screen and (min-width: 112.5em) {
+  .card__picture--4 {
+    background-image: linear-gradient(to right bottom, #e918c6, #dd3c9f),
+      url(../img/museum1.jpg);
+  }
+}
+.card__picture--5 {
+  background-image: linear-gradient(to right bottom, #bebeb1, #bebea5),
+    url(../img/tasting.jpg);
+}
+@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+  only screen and (-webkit-min-device-pixed-ratio: 2) and (min-width: 37.5em),
+  only screen and (min-width: 112.5em) {
+  .card__picture--5 {
+    background-image: linear-gradient(to right bottom, #bebeb1, #bebea5),
+      url(../img/tasting.jpg);
+  }
+}
+.card__picture--6 {
+  background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+    url(../img/synagogue.jpg);
+}
+@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+  only screen and (-webkit-min-device-pixed-ratio: 2) and (min-width: 37.5em),
+  only screen and (min-width: 112.5em) {
+  .card__picture--6 {
+    background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+      url(../img/synagogue.jpg);
+  }
+}
+.card__picture--7 {
+  background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+    url(../img/haddou.jpeg);
+}
+@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+  only screen and (-webkit-min-device-pixed-ratio: 2) and (min-width: 37.5em),
+  only screen and (min-width: 112.5em) {
+  .card__picture--6 {
+    background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+      url(../img/haddou.jpeg);
+  }
+}
+.card__picture--8 {
+  background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+    url(../img/essouira.jpg);
+}
+@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+  only screen and (-webkit-min-device-pixed-ratio: 2) and (min-width: 37.5em),
+  only screen and (min-width: 112.5em) {
+  .card__picture--6 {
+    background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+      url(../img/essouira.jpg);
+  }
+}
+.card__picture--9 {
+  background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+    url(../img/ourika.jpg);
+}
+@media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+  only screen and (-webkit-min-device-pixed-ratio: 2) and (min-width: 37.5em),
+  only screen and (min-width: 112.5em) {
+  .card__picture--6 {
+    background-image: linear-gradient(to right bottom, #e91010, #df0b0b),
+      url(../img/ourika.jpg);
+  }
+}
+
 .card__heading {
   font-size: 2.8rem;
   font-weight: 300;
@@ -577,7 +651,7 @@ body {
 }
 
 .card__price-value {
-  font-size: 6rem;
+  font-size: 2rem;
   font-weight: 100;
 }
 
